@@ -1,4 +1,4 @@
-Email-Pilot
+# Email-Pilot
 
 ## 📝 Overview
 The project enables a seamless integration between the Chrome Extension and the backend services, allowing users to perform various operations efficiently.
